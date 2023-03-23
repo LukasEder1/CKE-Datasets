@@ -1,6 +1,6 @@
 # CKE-Datasets
 
-This repository contains manually annotated/extracted Keywords, which should serve as ground truths 
+This repository contains manually annotated/extracted Keywords, which serve as ground truths 
 for Contrastive Keyword Extraction (CKE) tasks. 
 In total 200 versioned documents (articles and policies) were manually annotated.
 
