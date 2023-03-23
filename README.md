@@ -16,8 +16,8 @@ The dataset is split into two csv files:
 * **LengthA:** Text length of former version
 * **LengthB:** Text length of latter version
 * **LengthDifference:** $Length_B - Length_A$
-* **YearA:** Releasae Year of former version
-* **YearB:** Releasae Year of latter version
+* **YearA:** Release Year of former version
+* **YearB:** Release Year of latter version
 * **YearsApart:** $Year_B - Year_A$
 
 ### Characteristics:
