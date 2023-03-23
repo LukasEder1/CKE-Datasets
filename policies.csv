@@ -1,4 +1,4 @@
-,site_id,Keywords,Text A,Text B,Length A,Length B,Length Difference,Release Year A,Release Year B,Years apart
+,Id,Keywords,TextA,TextB,LengthA,LengthB,LengthDifference,YearA,YearB,YearsApart
 0,90536,"['European Union', 'cookies', 'bugs', 'personally identifiable', 'Salesforce', 'identifiable information', 'customer testimonial', 'version', 'Third Party', 'clear gifs', 'web beacons', 'service providers', 'blog']","## This Privacy Policy is effective as of September 17, 2007
 
 Proofpoint understands the importance of safeguarding your privacy and we take this responsibility very seriously. We are providing the following Privacy Policy to inform you of our policies and procedures for the collection, use and disclosure of any information about you that we collect via proofpoint.com (this “Site”) or by other means. 
