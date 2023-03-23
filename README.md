@@ -31,7 +31,7 @@ The dataset is split into two csv files:
 
 ## News Edits: News Article Revision 
 
-* **Id**: Policy Identifier 
+* **Id**: Article Identifier 
 * **Keywords**: Manually Extracted Keywords
 * **TextA:** Text of former version
 * **TextB:** Text of latter version
